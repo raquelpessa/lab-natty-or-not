@@ -1,4 +1,4 @@
-# **Projeto: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas, Criando a jornada de uma Sprint**
+📜# **Projeto: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas, Criando um vídeo sobre a jornada de uma Sprint com um avatar**
 
 ## **Descrição**
 Este projeto tem como objetivo criar um vídeo educativo utilizando um avatar virtual gerado pela ElevenLabs. O vídeo aborda de maneira didática como funciona uma sprint no contexto Ágil, abordando todas as etapas do ciclo, desde a criação de uma nova história de usuário (HU) até a implantação, dentro do período de uma SPRINT.
