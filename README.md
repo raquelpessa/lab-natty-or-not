@@ -12,4 +12,5 @@ O conteúdo foi criado a partir da definição e planejamento do roteiro, criaç
 
 ## **Vídeo explicativo**
 Confira o vídeo:
-[Assista ao vídeo](./https://github.com/raquelpessa/lab-natty-or-not/blob/main/Como%20funciona%20uma%20Sprint%20.mp4)
+[https://github.com/raquelpessa/lab-natty-or-not/commit/7c6922adfe6579f3acaffcc8794b83ecb4225e30#diff-28951610f8cca918e2906e171847003cb179443c8ebd1a2fb3a7d830d8dc9da1]
+
