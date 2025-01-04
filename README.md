@@ -10,4 +10,6 @@ HeyGen: criação de avatar e voz.
 ## **Processo de Criação**
 O conteúdo foi criado a partir da definição e planejamento do roteiro, criação do avatar virtual com uma narração fluida e profisisonal para atender o escopo do desafio, criação do vídeo e revisão e validação do conteúdo, para posterior publicação e divulgação.
 
-
+## **Vídeo explicativo**
+Confira o vídeo:
+[Assista ao vídeo](./https://github.com/raquelpessa/lab-natty-or-not/blob/main/Como%20funciona%20uma%20Sprint%20.mp4)
