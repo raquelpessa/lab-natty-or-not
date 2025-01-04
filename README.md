@@ -12,6 +12,7 @@ O conteúdo foi criado a partir da definição e planejamento do roteiro, criaç
 
 🎥## **Vídeo explicativo**
 Confira o vídeo:
-[Como funciona uma Sprint .mp4]
+(videos/Como funciona uma Sprint .mp4)
+
 
 
